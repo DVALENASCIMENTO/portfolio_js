@@ -1,0 +1,21 @@
+/* =========================================================
+   🕒 Relógio Digital
+   ========================================================= */
+.relogio-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 2rem 0;
+}
+
+#relogio {
+  font-family: 'Courier New', Courier, monospace;
+  font-size: 3rem;
+  font-weight: bold;
+  color: var(--js-yellow);
+  background: var(--dark-gray);
+  padding: 1rem 2rem;
+  border-radius: 10px;
+  box-shadow: 0 0 15px var(--js-yellow);
+  text-align: center;
+}
