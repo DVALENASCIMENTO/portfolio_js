@@ -97,9 +97,3 @@ Sinta-se à vontade para explorar, estudar e se inspirar — mas mencione a auto
 
 **© 2025 - Diego Vale do Nascimento**
 
----
-
-```
-
-Quer que eu gere o arquivo `README.md` real (em formato Markdown) para você baixar e subir direto no GitHub?
-```
